@@ -1,2 +1,13 @@
 .qodo/
 .vscode/
+
+target/
+tmp/
+*.o
+*.d
+
+*.swp
+.*.swp
+.DS_Store
+
+Cargo.lock
