@@ -12,6 +12,7 @@ fn find_subword(text: &str) -> &str {
     text
 }
 
+
 fn main() {
     let s = String::from("  Something wrong!");
 
@@ -28,3 +29,4 @@ fn main() {
         println!("{}", elem);
     }
 }
+
